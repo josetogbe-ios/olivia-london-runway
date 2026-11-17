@@ -1,0 +1,1 @@
+{"headers":[{"source":"/ref/(.*)","headers":[{"key":"Access-Control-Allow-Origin","value":"*"}]},{"source":"/(.*)","headers":[{"key":"X-Robots-Tag","value":"noindex, nofollow"}]}]}
